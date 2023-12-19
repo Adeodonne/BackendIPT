@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BackendIPT.API.props" />
+</Project>
